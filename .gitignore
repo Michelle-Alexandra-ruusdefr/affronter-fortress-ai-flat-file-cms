@@ -1,4 +1,5 @@
-/.htaccess
+# .htaccess (will create new)
+
 /administrator/cache/*
 /administrator/components/com_actionlogs/*
 /administrator/components/com_admin/*

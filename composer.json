@@ -1,0 +1,19 @@
+{
+    "name": "affronter/fortress-cms",
+    "description": "Affronter Fortress AI Flat-File CMS - Open Source PHP Flat-File CMS, plugin extensible, multilingual EN/DE/RU. AI features as premium plugins.",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Affronter\\Core\\": "src/Core/"
+        }
+    },
+    "minimum-stability": "stable"
+}
+

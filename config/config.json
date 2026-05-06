@@ -1,0 +1,26 @@
+{
+    "site": {
+        "name": "Affronter Fortress CMS",
+        "description": "Open Source Flat-File CMS",
+        "url": "",
+        "lang": "en",
+        "langs": ["en", "de", "ru"],
+        "theme": "default"
+    },
+    "paths": {
+        "data": "data",
+        "plugins": "plugins",
+        "themes": "themes",
+        "cache": "cache"
+    },
+    "security": {
+        "session_name": "AF_SESSION",
+        "cookie_secure": false,
+        "csrf_token": true
+    },
+    "plugins": {
+        "active": []
+    },
+    "debug": true
+}
+
